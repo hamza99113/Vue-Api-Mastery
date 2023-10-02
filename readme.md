@@ -13,6 +13,7 @@
 - Vue.js
 - Fetch()
 - Axios
+- firebase
 
 ## Usage
 
