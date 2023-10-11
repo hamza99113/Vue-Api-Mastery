@@ -32,6 +32,7 @@ npm run serve
 
 # Screenshot
 <img src="./src/images/screen.png" />
+<img src="./src/images/screen2.png" />
 
 # Reference:
 ### Udemy Course: [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
